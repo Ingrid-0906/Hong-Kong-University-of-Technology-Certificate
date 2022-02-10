@@ -15,10 +15,15 @@ By the end of the course, you can achieve the following using python:
 - Evaluate the performance of the trading model using different investment indicators
 
 Jupyter Notebook environment is configured in the course platform for practicing python coding without installing any client applications.
-Skills you will gain
 
+### Skill:
     - Statistical Analysis
     - Financial Analysis
     - Financial Data Analysis
     - Python Programming
     - Data Visualization (DataViz)
+
+### Intructor
+**Xuhu Wan**<br>
+Associate Professor<br>
+Department of Information Systems, Business Statistics and Operations Management
