@@ -1,5 +1,5 @@
 # Hong-Kong-University-of-Technology-Certificate
-June 18, 2021
+### June 18, 2021
 The repo contains the 'Python and Statistics for Financial Analysis' certificate purchased at Hong Honk University of Science and Technology though Coursera Online. 
 
 ### About
